@@ -34,7 +34,7 @@ pytz==2016.10
 environs==1.2.0
 
 marshmallow==2.13.3
-marshmallow-jsonapi==0.10.1
+marshmallow-jsonapi==0.11.0
 
 Flask==0.12
 Flask-Migrate==2.0.3
