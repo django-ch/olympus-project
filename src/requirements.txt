@@ -33,7 +33,7 @@ pytz==2016.10
 
 environs==1.2.0
 
-marshmallow==2.13.0
+marshmallow==2.13.3
 marshmallow-jsonapi==0.10.1
 
 Flask==0.12
